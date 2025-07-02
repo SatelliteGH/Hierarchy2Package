@@ -100,7 +100,7 @@ MonoBehaviour:
     useTag: 1
     useLayer: 0
     startWith: 
-    tag: Zenject
+    tag: DI
     layer:
       serializedVersion: 2
       m_Bits: 0
