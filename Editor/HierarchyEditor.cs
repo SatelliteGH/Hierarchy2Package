@@ -1540,7 +1540,7 @@ namespace Hierarchy2
                 // Debug.Log(string.Format("HierarchyWindow {0} Disposed.", instanceID));
             }
 
-            public TreeViewItem GetItemAndRowIndex(int id, out int row)
+            public TreeViewItem<int> GetItemAndRowIndex(int id, out int row)
             {
                 row = -1;
                 // if (treeview == null) return null;
